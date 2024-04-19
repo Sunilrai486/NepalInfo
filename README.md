@@ -1,2 +1,2 @@
-# Realty
-Building an AI Language Model From Scratch for Real State Customer Engagement
+# NepalInfo
+Building an AI Language Model For Question Answering Nepal's Info.
