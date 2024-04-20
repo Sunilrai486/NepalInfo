@@ -9,6 +9,8 @@ Slack link: https://w2024lcteamwano.slack.com/ssb/redirect
 
 GoogleSite link: https://sites.google.com/view/teamwano/home
 
+Overleaf Latex link: https://www.overleaf.com/read/hgsvzzjztjgy#b1436e
+
 ## Requirements
 Before setting up the application, ensure that you have the following requirements installed on your system:
 
