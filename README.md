@@ -7,6 +7,8 @@ Trello link: https://trello.com/b/KjJ2FKlz/aml-3304-software-tools-and-emerging-
 
 Slack link: https://w2024lcteamwano.slack.com/ssb/redirect
 
+GoogleSite link: https://sites.google.com/view/teamwano/home
+
 ## Requirements
 Before setting up the application, ensure that you have the following requirements installed on your system:
 
