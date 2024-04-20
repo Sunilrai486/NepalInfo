@@ -19,7 +19,7 @@ Before setting up the application, ensure that you have the following requiremen
 
 1. Clone the repository to your local machine.
   ```bash
-  git clone git@github.com:sunilrai486/nepalinfo.git
+  git clone git@github.com:Sunilrai486/NepalInfo.git
   ```
 
 2. Navigate to the project directory.
